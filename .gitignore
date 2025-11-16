@@ -1,0 +1,28 @@
+# Ren'Py cache
+game/cache/
+**/*.rpyc
+
+# Ren'Py logs
+log.txt
+traceback.txt
+
+# Saves
+**/saves/
+**/persistent
+
+# Zips & binaries
+*.zip
+*.exe
+*.dll
+
+# Windows system
+Thumbs.db
+Desktop.ini
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Renpy SDK (não subir nunca)
+renpy/
+*renpy*.zip
