@@ -1,4 +1,4 @@
-# Honey Project – Um Jogo de Memórias em Ren'Py
+# Honey Project 
 
 Presente especial da família para a mamãe 💛
 
